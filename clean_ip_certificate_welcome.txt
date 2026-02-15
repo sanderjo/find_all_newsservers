@@ -1,5 +1,5 @@
-23.182.120.21 blocknews.net 200 eunews.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok) 
-23.182.120.63 blocknews.net 200 eunews.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok) 
+23.182.120.22 blocknews.net 200 eunews.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok) 
+23.182.120.62 blocknews.net 200 eunews.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok) 
 45.125.247.107 blocknews.net 200 aunews.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok) 
 45.125.247.108 blocknews.net 200 aunews.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok) 
 45.125.247.109 blocknews.net 200 aunews.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok) 
@@ -39,7 +39,7 @@
 69.80.106.130 news.giganews.com 200 News.GigaNews.Com 
 69.80.106.131 news.giganews.com 200 News.GigaNews.Com 
 69.80.106.132 news-europe.giganews.com 200 News.GigaNews.Com 
-69.80.106.133 news-europe.giganews.com 200 News.GigaNews.Com 
+69.80.106.133 news-europe.giganews.com 200 News.GigaNews.ComQUIT 
 69.80.106.134 news-europe.giganews.com 200 News.GigaNews.Com 
 69.80.106.135 news-europe.giganews.com 200 News.GigaNews.Com 
 69.80.106.136 news 200 News.GigaNews.Com 
@@ -97,7 +97,7 @@
 69.80.106.188 news 200 Text.GigaNews.Com 
 69.80.106.189 news 200 Text.GigaNews.Com 
 69.80.106.190 news 200 Text.GigaNews.Com 
-77.42.22.226 nntp.eternal-september.org 200 backend.eternal-september.org InterNetNews NNRP server INN 2.8.0 (20251022 snapshot) ready (posting ok) 
+77.42.22.226 nntp.eternal-september.org 200 nntp.eternal-september.org InterNetNews NNRP server INN 2.8.0 (20251022 snapshot) ready (posting ok) 
 78.152.55.164 cheapnews.eu 200 Welcome to Cheapnews 
 78.152.55.165 cheapnews.eu 200 Welcome to Cheapnews 
 81.171.92.180 news.extremeusenet.nl 200 Welcome to ExtremeUsenet 
@@ -232,27 +232,27 @@
 176.124.71.41 tweaknews.eu 200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok) 
 176.124.71.42 tweaknews.eu 200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok) 
 176.124.71.45 tele2.sslusenet.com 200 tele2news.tweaknews.nl NNRP Service Ready - klantenservice@tele2.com (posting ok) 
-178.20.174.241 blue.usenetnews.net 200 Welcome at Frugal Usenet (fe2) 
-178.20.174.245 farm.newsgroupdirect.com 200 Welcome at farm.NewsgroupDirect.com (fe3) 
-178.20.174.246 blue.usenetnews.net 200 Welcome at bonus.frugalusenet.com (fe2) 
-178.20.174.247 blue.usenetnews.net 200 Welcome at Usenet News (fe4) 
+178.20.174.241 blue.usenetnews.net 200 Welcome at Frugal Usenet (fe1) 
+178.20.174.245 farm.newsgroupdirect.com 200 Welcome at farm.NewsgroupDirect.com (fe2) 
+178.20.174.246 blue.usenetnews.net 200 Welcome at bonus.frugalusenet.com (fe1) 
+178.20.174.247 blue.usenetnews.net 200 Welcome at Usenet News (fe3) 
 178.20.174.249 news.usenet.farm 200 Welcome at Usenet.Farm (fe1) 
-178.20.174.250 news.usenet.farm 200 Welcome at Usenet.Farm (fe3) 
-185.151.12.119 usenetexpress.com 200 Welcome to UsenetExpress (fe07) 
-185.151.12.132 usenetexpress.com 200 Welcome to UsenetExpress (fe07) 
-185.151.12.133 newsdemon.com 200 Welcome (n09.iad1) 
-185.151.12.134 newsgroupdirect.com 200 Welcome (p13.dc1) 
-185.151.12.135 thundernews.com 200 Welcome (tn09.iad1) 
-185.151.12.136 thecubenet.com 200 Welcome (cn11.iad1) 
-185.151.12.137 *.usenetprime.com 200 Welcome to UsenetPrime 
+178.20.174.250 news.usenet.farm 200 Welcome at Usenet.Farm (fe4) 
+185.151.12.119 usenetexpress.com 200 Welcome to UsenetExpress (fe08) 
+185.151.12.132 usenetexpress.com 200 Welcome to UsenetExpress (fe10) 
+185.151.12.133 newsdemon.com 200 Welcome (n05.iad1) 
+185.151.12.134 newsgroupdirect.com 200 Welcome (p06.dc1) 
+185.151.12.135 thundernews.com 200 Welcome (tn03.iad1) 
+185.151.12.136 thecubenet.com 200 Welcome (cn09.iad1) 
+185.151.12.137 *.usenetprime.com 205 Goodbye 
 185.151.12.138 blocknews.net 200 Welcome to Usenetnews 
 185.151.12.152 blocknews.net 200 Welcome to Usenetnews 
-185.151.12.153 *.usenetprime.com 200 Welcome to UsenetPrime 
-185.151.12.154 thecubenet.com 200 Welcome (cn07.iad1) 
-185.151.12.155 thundernews.com 200 Welcome (tn01.iad1) 
-185.151.12.156 newsgroupdirect.com 200 Welcome (p05.dc1) 
-185.151.12.157 newsdemon.com 200 Welcome (n13.iad1) 
-185.151.12.158 usenetexpress.com 200 Welcome to UsenetExpress (fe11) 
+185.151.12.153 *.usenetprime.com 205 Goodbye 
+185.151.12.154 thecubenet.com 200 Welcome (cn08.iad1) 
+185.151.12.155 thundernews.com 200 Welcome (tn11.iad1) 
+185.151.12.156 newsgroupdirect.com 200 Welcome (p13.dc1) 
+185.151.12.157 newsdemon.com 200 Welcome (n03.iad1) 
+185.151.12.158 usenetexpress.com 200 Welcome to UsenetExpress (fe06) 
 185.151.12.83 usenetexpress.com 200 healthcheck @ UsenetExpress ((fe01)) 
 185.151.12.84 usenetexpress.com 200 healthcheck @ UsenetExpress ((fe02)) 
 185.151.12.85 usenetexpress.com 200 healthcheck @ UsenetExpress ((fe03)) 
@@ -310,9 +310,6 @@
 185.90.196.96 usenetserver.com 200 news.usenetserver.com Welcome! 
 185.90.196.97 newshosting.com 200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com 
 185.90.196.98 newshosting.com 200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com 
-209.160.120.33 blocknews.net 200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok) 
-209.160.120.40 blocknews.net 200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok) 
-209.160.120.43 blocknews.net 200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok) 
 212.7.201.68 *.5eurousenet.com 200 Welcome to the reader 
 212.7.201.70 *.5eurousenet.com 200 Welcome to the reader 
 212.95.34.241 usenet.premium.to 201 NNTP Service Ready 
