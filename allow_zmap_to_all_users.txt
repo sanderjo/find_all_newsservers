@@ -1,0 +1,8 @@
+$ getcap $(which zmap) # no output
+
+$ sudo setcap cap_net_raw+ep $(which zmap)
+$ getcap $(which zmap) # yes, output
+
+/usr/local/sbin/zmap cap_net_raw=ep
+
+

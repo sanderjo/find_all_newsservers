@@ -1,0 +1,1513 @@
+137.74.6.28
+news.usenetmax.com
+200 news.usenetmax.com
+-----
+157.180.91.226
+nntp.eternal-september.org
+200 nntp.eternal-september.org InterNetNews NNRP server INN 2.8.0 (20251022 snapshot) ready (posting ok)
+-----
+157.90.249.56
+news.solani.org
+200 reader5.news.weretis.net InterNetNews NNRP server INN 2.7.1 ready (no posting)
+-----
+162.55.179.12
+news.dwld.link
+201 NNTP srv1
+-----
+167.235.52.30
+news.dwld.link
+201 NNTP srv1
+-----
+176.124.71.40
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.39
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.45
+tele2.sslusenet.com
+200 tele2news.tweaknews.nl NNRP Service Ready - klantenservice@tele2.com (posting ok)
+-----
+176.124.71.41
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.36
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.34
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.42
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.35
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.46
+tele2.sslusenet.com
+-----
+176.124.71.38
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.37
+tweaknews.eu
+200 news.tweak-news.eu NNRP Service Ready - newsmaster@tweak-news.eu (posting ok)
+-----
+176.124.71.33
+tweaknews.nl
+200 news.tweaknews.nl NNRP Service Ready - info@tweaknews.nl (posting ok)
+-----
+178.20.174.249
+news.usenet.farm
+200 Welcome at Usenet.Farm (fe1)
+-----
+178.20.174.245
+farm.newsgroupdirect.com
+200 Welcome at farm.NewsgroupDirect.com (fe2)
+-----
+178.20.174.250
+news.usenet.farm
+200 Welcome at Usenet.Farm (fe4)
+-----
+178.20.174.241
+blue.usenetnews.net
+200 Welcome at Frugal Usenet (fe1)
+-----
+178.20.174.246
+blue.usenetnews.net
+200 Welcome at bonus.frugalusenet.com (fe1)
+-----
+178.20.174.247
+blue.usenetnews.net
+200 Welcome at Usenet News (fe3)
+-----
+185.151.12.138
+blocknews.net
+200 Welcome to Usenetnews
+-----
+185.151.12.158
+usenetexpress.com
+200 Welcome to UsenetExpress (fe06)
+-----
+185.151.12.119
+usenetexpress.com
+200 Welcome to UsenetExpress (fe08)
+-----
+185.151.12.88
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe06))
+-----
+185.151.12.133
+newsdemon.com
+200 Welcome (n05.iad1)
+-----
+185.151.12.96
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe14))
+-----
+185.151.12.94
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe12))
+-----
+185.151.12.156
+newsgroupdirect.com
+200 Welcome (p13.dc1)
+-----
+185.151.12.84
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe02))
+-----
+185.151.12.83
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe01))
+-----
+185.151.12.153
+*.usenetprime.com
+205 Goodbye
+-----
+185.151.12.89
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe07))
+-----
+185.151.12.92
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe10))
+-----
+185.151.12.134
+newsgroupdirect.com
+200 Welcome (p06.dc1)
+-----
+185.151.12.137
+*.usenetprime.com
+205 Goodbye
+-----
+185.151.12.132
+usenetexpress.com
+200 Welcome to UsenetExpress (fe10)
+-----
+185.151.12.135
+thundernews.com
+200 Welcome (tn03.iad1)
+-----
+185.151.12.154
+thecubenet.com
+200 Welcome (cn08.iad1)
+-----
+185.151.12.87
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe05))
+-----
+185.151.12.93
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe11))
+-----
+185.151.12.90
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe08))
+-----
+185.151.12.152
+blocknews.net
+200 Welcome to Usenetnews
+-----
+185.151.12.136
+thecubenet.com
+200 Welcome (cn09.iad1)
+-----
+185.151.12.95
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe13))
+-----
+185.151.12.85
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe03))
+-----
+185.151.12.157
+newsdemon.com
+200 Welcome (n03.iad1)
+-----
+185.151.12.155
+thundernews.com
+200 Welcome (tn11.iad1)
+-----
+185.151.12.91
+usenetexpress.com
+200 healthcheck @ UsenetExpress ((fe09))
+-----
+185.90.196.132
+eu.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+185.90.196.103
+news.sslusenet.com
+200 Welcome to UseNeXT
+-----
+185.90.196.65
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+185.90.196.68
+eu.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+185.90.196.147
+astraweb.com
+200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+185.90.196.72
+news.sslusenet.com
+200 Welcome to UseNeXT unlimited
+-----
+185.90.196.172
+xlned.com
+200 news.xlned.com NNRP Service Ready - support@xlned.com
+-----
+185.90.196.101
+news.sslusenet.com
+200 Welcome
+-----
+185.90.196.7
+*.sslusenet.com
+-----
+185.90.196.64
+usenetserver.com
+200 news.usenetserver.com Welcome!
+-----
+185.90.196.71
+news.sslusenet.com
+200 Welcome to UseNeXT
+-----
+185.90.196.129
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+185.90.196.104
+news.sslusenet.com
+200 Welcome to UseNeXT unlimited
+-----
+185.90.196.21
+*.sslusenet.com
+-----
+185.90.196.19
+*.sslusenet.com
+-----
+185.90.196.136
+news.sslusenet.com
+200 Welcome to UseNeXT unlimited
+-----
+185.90.196.10
+*.sslusenet.com
+-----
+185.90.196.76
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+185.90.196.137
+news1.usenet.nl
+200 Welcome to usenet.nl
+-----
+185.90.196.11
+*.sslusenet.com
+-----
+185.90.196.170
+news.extremeusenet.nl
+200 Welcome to ExtremeUsenet
+-----
+185.90.196.105
+news1.usenet.nl
+200 Welcome to usenet.nl
+-----
+185.90.196.135
+news.sslusenet.com
+200 Welcome to UseNeXT
+-----
+185.90.196.175
+news.usenetbucket.com
+200 Welcome to Usenetbucket
+-----
+185.90.196.100
+eu.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+185.90.196.165
+news4.usenet4u.nl
+200 Welcome
+-----
+185.90.196.22
+*.sslusenet.com
+-----
+185.90.196.17
+*.sslusenet.com
+-----
+185.90.196.6
+*.sslusenet.com
+-----
+185.90.196.109
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+185.90.196.73
+news1.usenet.nl
+200 Welcome to usenet.nl
+-----
+185.90.196.66
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+185.90.196.96
+usenetserver.com
+200 news.usenetserver.com Welcome!
+-----
+185.90.196.69
+news.sslusenet.com
+200 Welcome
+-----
+185.90.196.16
+*.sslusenet.com
+-----
+185.90.196.15
+*.sslusenet.com
+-----
+185.90.196.163
+sunnyusenet.com
+200 news.sunnyusenet.com NNRP Service Ready - support@sunnyusenet.com
+-----
+185.90.196.108
+astraweb.com
+200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+185.90.196.98
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+185.90.196.114
+news.sslusenet.com
+200 Welcome to Usenet
+-----
+185.90.196.8
+*.sslusenet.com
+-----
+185.90.196.128
+usenetserver.com
+200 news.usenetserver.com Welcome!
+-----
+185.90.196.142
+*.forteinc.com
+200 Welcome to Forte Premium.  Please Authenticate.
+-----
+185.90.196.13
+*.sslusenet.com
+-----
+185.90.196.14
+*.sslusenet.com
+-----
+185.90.196.173
+sunnyusenet.com
+200 news.sunnyusenet.com NNRP Service Ready - support@sunnyusenet.com
+-----
+185.90.196.18
+*.sslusenet.com
+-----
+185.90.196.9
+*.sslusenet.com
+-----
+185.90.196.160
+news.extremeusenet.nl
+200 Welcome to ExtremeUsenet
+-----
+185.90.196.97
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+185.90.196.164
+pureusenet.nl
+200 news.pureusenet.nl NNRP Service Ready - support@pureusenet.nl
+-----
+185.90.196.20
+*.sslusenet.com
+-----
+185.90.196.162
+xlned.com
+200 news.xlned.com NNRP Service Ready - support@xlned.com
+-----
+185.90.196.12
+*.sslusenet.com
+-----
+185.90.196.133
+news.sslusenet.com
+200 Welcome
+-----
+185.90.196.130
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+185.90.196.171
+*.sslusenet.com
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+-----
+185.90.196.161
+*.sslusenet.com
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+-----
+185.90.196.79
+*.sslusenet.com
+200 Welcome to Usenet
+-----
+185.90.196.174
+pureusenet.nl
+200 news.pureusenet.nl NNRP Service Ready - support@pureusenet.nl
+-----
+185.90.196.70
+eweka.nl
+200 Welcome to Eweka
+-----
+209.160.120.42
+blocknews.net
+-----
+209.160.120.32
+blocknews.net
+-----
+209.160.120.33
+blocknews.net
+-----
+209.160.120.34
+blocknews.net
+-----
+209.160.120.40
+blocknews.net
+-----
+209.160.120.38
+blocknews.net
+-----
+209.160.120.41
+blocknews.net
+-----
+209.160.120.39
+blocknews.net
+-----
+209.160.120.36
+blocknews.net
+-----
+209.160.120.43
+blocknews.net
+-----
+209.160.120.37
+blocknews.net
+-----
+209.160.120.35
+blocknews.net
+-----
+212.7.201.70
+*.5eurousenet.com
+200 Welcome to the reader
+-----
+212.7.201.68
+*.5eurousenet.com
+200 Welcome to the reader
+-----
+212.95.34.243
+usenet.premium.to
+201 NNTP Service Ready
+-----
+212.95.34.241
+usenet.premium.to
+201 NNTP Service Ready
+-----
+23.182.120.42
+blocknews.net
+-----
+23.182.120.61
+blocknews.net
+-----
+23.182.120.64
+blocknews.net
+-----
+23.182.120.22
+blocknews.net
+200 eunews.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+23.182.120.23
+blocknews.net
+-----
+23.182.120.63
+blocknews.net
+-----
+23.182.120.41
+blocknews.net
+-----
+23.182.120.44
+blocknews.net
+-----
+23.182.120.21
+blocknews.net
+-----
+23.182.120.43
+blocknews.net
+-----
+23.182.120.62
+blocknews.net
+200 eunews.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+23.182.120.24
+blocknews.net
+-----
+45.125.247.108
+blocknews.net
+200 aunews.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+45.125.247.109
+blocknews.net
+200 aunews.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+45.125.247.107
+blocknews.net
+200 aunews.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+50.7.47.116
+blocknews.net
+200 bonus.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (no posting)
+-----
+51.75.57.128
+news.sonic-news.com
+200 news.sonic-news.com
+-----
+62.164.182.48
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.21
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.164.182.67
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.66
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.41
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.44
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.27
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.164.182.43
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.68
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.23
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.164.182.45
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.42
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.24
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.164.182.46
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.22
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.164.182.61
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.47
+blocknews.net
+200 news.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+62.164.182.28
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.164.182.62
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.26
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.164.182.65
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.63
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.64
+blocknews.net
+200 news.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+62.164.182.25
+blocknews.net
+200 news.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+62.45.54.18
+www.appelboor.com
+200 Welcome (NServ)
+-----
+65.108.165.7
+news.solani.org
+200 reader6.news.weretis.net InterNetNews NNRP server INN 2.7.1 ready (no posting)
+-----
+66.90.99.229
+blocknews.net
+200 asnews.usenetnow.net NNRP Service Ready - support@usenetnow.net (posting ok)
+-----
+66.90.99.228
+blocknews.net
+200 asnews.frugalusenet.com NNRP Service Ready - support@frugalusenet.com (posting ok)
+-----
+66.90.99.227
+blocknews.net
+200 asnews.blocknews.net NNRP Service Ready - support@blocknews.net (posting ok)
+-----
+69.80.106.188
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.157
+news
+200 News.GigaNews.Com
+-----
+69.80.106.142
+news
+200 News.GigaNews.Com
+-----
+69.80.106.134
+news-europe.giganews.com
+200 News.GigaNews.Com
+-----
+69.80.106.161
+news
+200 News.GigaNews.Com
+-----
+69.80.106.153
+news
+200 News.GigaNews.Com
+-----
+69.80.106.131
+news.giganews.com
+200 News.GigaNews.Com
+-----
+69.80.106.130
+news.giganews.com
+200 News.GigaNews.Com
+-----
+69.80.106.151
+news
+200 News.GigaNews.Com
+-----
+69.80.106.167
+news
+200 News.GigaNews.Com
+-----
+69.80.106.174
+news
+200 News.GigaNews.Com
+-----
+69.80.106.132
+news-europe.giganews.com
+200 News.GigaNews.Com
+-----
+69.80.106.166
+news
+200 News.GigaNews.Com
+-----
+69.80.106.148
+news
+200 News.GigaNews.Com
+-----
+69.80.106.181
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.139
+news
+200 News.GigaNews.Com
+-----
+69.80.106.179
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.146
+news
+200 News.GigaNews.Com
+-----
+69.80.106.168
+news
+200 News.GigaNews.Com
+-----
+69.80.106.129
+news.giganews.com
+200 News.GigaNews.Com
+-----
+69.80.106.155
+news
+200 News.GigaNews.Com
+-----
+69.80.106.177
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.143
+news
+200 News.GigaNews.Com
+-----
+69.80.106.149
+news
+200 News.GigaNews.Com
+-----
+69.80.106.144
+news
+200 News.GigaNews.Com
+-----
+69.80.106.180
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.160
+news
+200 News.GigaNews.Com
+-----
+69.80.106.175
+news
+200 News.GigaNews.Com
+-----
+69.80.106.152
+news
+200 News.GigaNews.Com
+-----
+69.80.106.173
+news
+200 News.GigaNews.Com
+-----
+69.80.106.190
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.145
+news
+200 News.GigaNews.Com
+-----
+69.80.106.176
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.136
+news
+200 News.GigaNews.Com
+-----
+69.80.106.186
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.158
+news
+200 News.GigaNews.Com
+-----
+69.80.106.172
+news
+200 News.GigaNews.Com
+-----
+69.80.106.156
+news
+200 News.GigaNews.Com
+-----
+69.80.106.165
+news
+200 News.GigaNews.Com
+-----
+69.80.106.137
+news
+200 News.GigaNews.Com
+-----
+69.80.106.140
+news
+200 News.GigaNews.Com
+-----
+69.80.106.159
+news
+200 News.GigaNews.Com
+-----
+69.80.106.184
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.147
+news
+200 News.GigaNews.Com
+-----
+69.80.106.185
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.178
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.171
+news
+200 News.GigaNews.Com
+-----
+69.80.106.138
+news
+200 News.GigaNews.Com
+-----
+69.80.106.154
+news
+200 News.GigaNews.Com
+-----
+69.80.106.150
+news
+200 News.GigaNews.Com
+-----
+69.80.106.135
+news-europe.giganews.com
+200 News.GigaNews.Com
+-----
+69.80.106.169
+news
+200 News.GigaNews.Com
+-----
+69.80.106.164
+news
+200 News.GigaNews.Com
+-----
+69.80.106.162
+news
+200 News.GigaNews.Com
+-----
+69.80.106.189
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.128
+news.giganews.com
+200 News.GigaNews.Com
+-----
+69.80.106.133
+news-europe.giganews.com
+200 News.GigaNews.ComQUIT
+-----
+69.80.106.141
+news
+200 News.GigaNews.Com
+-----
+69.80.106.183
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.182
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.187
+news
+200 Text.GigaNews.Com
+-----
+69.80.106.170
+news
+200 News.GigaNews.Com
+-----
+69.80.106.163
+news
+200 News.GigaNews.Com
+-----
+77.42.22.226
+nntp.eternal-september.org
+200 nntp.eternal-september.org InterNetNews NNRP server INN 2.8.0 (20251022 snapshot) ready (posting ok)
+-----
+78.152.55.164
+cheapnews.eu
+200 Welcome to Cheapnews
+-----
+78.152.55.165
+cheapnews.eu
+200 Welcome to Cheapnews
+-----
+81.171.92.203
+astraweb.com
+200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+81.171.92.195
+*.forteinc.com
+200 Welcome to Forte Premium.  Please Authenticate.
+-----
+81.171.92.221
+eu.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+81.171.92.181
+news.usenetbucket.com
+200 Welcome to Usenetbucket
+-----
+81.171.92.239
+usenetserver.com
+200 news.usenetserver.com Welcome!
+-----
+81.171.92.183
+*.sslusenet.com
+200 Welcome to Usenet
+-----
+81.171.92.224
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+81.171.92.201
+astraweb.com
+200 news.astraweb.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+81.171.92.198
+eweka.nl
+200 Welcome to Eweka
+-----
+81.171.92.185
+xlned.com
+200 news.xlned.com NNRP Service Ready - support@xlned.com
+-----
+81.171.92.230
+news1.usenet.nl
+200 Welcome to usenet.nl
+-----
+81.171.92.237
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+81.171.92.210
+*.sslusenet.com
+200 newsreader.usenetter.nl NNRP Service Ready - info@usenetter.nl (no posting)(no reading)
+-----
+81.171.92.187
+news4.usenet4u.nl
+200 Welcome
+-----
+81.171.92.232
+news.sslusenet.com
+200 Welcome to UseNeXT
+-----
+81.171.92.217
+news.sslusenet.com
+200 Welcome to UseNeXT unlimited
+-----
+81.171.92.204
+eweka.nl
+200 Welcome to Eweka
+-----
+81.171.92.197
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+81.171.92.218
+news.sslusenet.com
+200 Welcome to UseNeXT
+-----
+81.171.92.220
+news.sslusenet.com
+200 Welcome
+-----
+81.171.92.235
+eu.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+81.171.92.208
+tele2.sslusenet.com
+200 tele2news.tweaknews.nl NNRP Service Ready - klantenservice@tele2.com (posting ok)
+-----
+81.171.92.225
+usenetserver.com
+200 news.usenetserver.com Welcome!
+-----
+81.171.92.233
+eweka.nl
+200 Welcome to Eweka
+-----
+81.171.92.234
+news.sslusenet.com
+200 Welcome
+-----
+81.171.92.238
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+81.171.92.223
+newshosting.com
+200 NNRP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+81.171.92.186
+pureusenet.nl
+200 news.pureusenet.nl NNRP Service Ready - support@pureusenet.nl
+-----
+81.171.92.209
+sunnyusenet.com
+200 news.sunnyusenet.com NNRP Service Ready - support@sunnyusenet.com
+-----
+81.171.92.216
+news1.usenet.nl
+200 Welcome to usenet.nl
+-----
+81.171.92.231
+news.sslusenet.com
+200 Welcome to UseNeXT unlimited
+-----
+81.171.92.219
+eweka.nl
+200 Welcome to Eweka
+-----
+81.171.92.196
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+81.171.92.180
+news.extremeusenet.nl
+200 Welcome to ExtremeUsenet
+-----
+81.171.92.205
+eweka.nl
+200 Welcome to Eweka
+-----
+81.171.92.207
+tele2.sslusenet.com
+-----
+84.17.55.129
+usenet.premiumize.me
+201 usenet.premiumize.me NNRP Service Ready - support@premiumize.me (no posting)
+-----
+85.12.62.73
+*.sslusenet.com
+-----
+85.12.62.254
+astraweb.com
+200 news.astraweb.com NNRP Service Ready (posting ok)  (yEnc enabled).
+-----
+85.12.62.58
+*.sslusenet.com
+-----
+85.12.62.50
+*.sslusenet.com
+-----
+85.12.62.40
+*.sslusenet.com
+-----
+85.12.62.38
+*.sslusenet.com
+-----
+85.12.62.242
+news.sslusenet.com
+200 Welcome to UseNeXT unlimited
+-----
+85.12.62.79
+*.sslusenet.com
+-----
+85.12.62.44
+*.sslusenet.com
+-----
+85.12.62.227
+news.sslusenet.com
+200 Welcome to UseNeXT
+-----
+85.12.62.48
+*.sslusenet.com
+-----
+85.12.62.224
+eu.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+85.12.62.45
+*.sslusenet.com
+-----
+85.12.62.243
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+85.12.62.72
+*.sslusenet.com
+-----
+85.12.62.230
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+85.12.62.231
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+85.12.62.49
+*.sslusenet.com
+-----
+85.12.62.217
+news.sslusenet.com
+200 Welcome
+-----
+85.12.62.78
+*.sslusenet.com
+-----
+85.12.62.51
+*.sslusenet.com
+-----
+85.12.62.246
+*.sslusenet.com
+200 Welcome to Usenet
+-----
+85.12.62.74
+*.sslusenet.com
+-----
+85.12.62.39
+*.sslusenet.com
+-----
+85.12.62.228
+news.sslusenet.com
+200 Welcome to UseNeXT unlimited
+-----
+85.12.62.247
+news.sslusenet.com
+200 Welcome to Usenet
+-----
+85.12.62.241
+news.sslusenet.com
+200 Welcome to UseNeXT
+-----
+85.12.62.70
+*.sslusenet.com
+-----
+85.12.62.226
+newshosting.com
+200 NNTP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+85.12.62.42
+*.sslusenet.com
+-----
+85.12.62.232
+*.forteinc.com
+200 Welcome to Forte Premium.  Please Authenticate.
+-----
+85.12.62.56
+*.sslusenet.com
+-----
+85.12.62.69
+*.sslusenet.com
+-----
+85.12.62.55
+*.sslusenet.com
+-----
+85.12.62.59
+*.sslusenet.com
+-----
+85.12.62.245
+*.forteinc.com
+200 Welcome to Forte Premium.  Please Authenticate.
+-----
+85.12.62.214
+newshosting.com
+200 NNTP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+85.12.62.54
+*.sslusenet.com
+-----
+85.12.62.41
+*.sslusenet.com
+-----
+85.12.62.219
+astraweb.com
+200 news.astraweb.com NNRP Service Ready (posting ok)  (yEnc enabled).
+-----
+85.12.62.244
+news.easynews.com
+200 news.easynews.com Welcome!
+-----
+85.12.62.83
+*.sslusenet.com
+-----
+85.12.62.233
+*.sslusenet.com
+200 Welcome to Usenet
+-----
+85.12.62.68
+*.sslusenet.com
+-----
+85.12.62.76
+*.sslusenet.com
+-----
+85.12.62.57
+*.sslusenet.com
+-----
+85.12.62.82
+*.sslusenet.com
+-----
+85.12.62.71
+*.sslusenet.com
+-----
+85.12.62.53
+*.sslusenet.com
+-----
+85.12.62.80
+*.sslusenet.com
+-----
+85.12.62.251
+newshosting.com
+200 NNTP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+85.12.62.61
+*.sslusenet.com
+-----
+85.12.62.225
+newshosting.com
+200 NNTP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+85.12.62.52
+*.sslusenet.com
+-----
+85.12.62.77
+*.sslusenet.com
+-----
+85.12.62.221
+usenetserver.com
+200 news.usenetserver.com Welcome!
+-----
+85.12.62.218
+newshosting.com
+200 NNTP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+85.12.62.240
+usenetserver.com
+200 news.usenetserver.com Welcome!
+-----
+85.12.62.81
+*.sslusenet.com
+-----
+85.12.62.75
+*.sslusenet.com
+-----
+85.12.62.234
+news.sslusenet.com
+200 Welcome to Usenet
+-----
+85.12.62.46
+*.sslusenet.com
+-----
+85.12.62.250
+newshosting.com
+200 NNTP unlimited.newshosting.com Service Ready - support@newshosting.com
+-----
+85.12.62.60
+*.sslusenet.com
+-----
+85.12.62.47
+*.sslusenet.com
+-----
+85.12.62.220
+news.sslusenet.com
+200 Welcome
+-----
+85.12.62.43
+*.sslusenet.com
+-----
+85.12.62.239
+eu.bintube.com
+200 news.bintube.com NNRP Service Ready (posting ok) (yEnc enabled).
+-----
+91.223.220.236
+reader.xsnews.nl
+200 Please register at test.xsnews.com
+-----
+91.223.220.242
+reader.xsnews.nl
+200 Please register at delta
+-----
+91.223.220.241
+reader.xsnews.nl
+200 Please register at delta
+-----
+91.223.220.243
+reader.xsnews.nl
+200 Please register at delta
+-----
+91.223.220.244
+reader.xsnews.nl
+200 Welcome to NewsXS dev.
+-----
+94.232.116.137
+nntp.binaryboy.com
+200 Welcome to Binary Boy
+-----
+94.232.116.134
+xennanews.com
+200 Welcome to Aviteo Ltd DE
+-----
+94.232.116.172
+newszilla.xs4all.nl
+-----
+94.232.116.155
+usenetdiscounter.com
+200 Welcome to Usenetdiscounter
+-----
+94.232.116.152
+usenext.de
+200 Welcome to Aviteo Ltd DE
+-----
+94.232.116.176
+news.ls.nl
+200 Welcome to Hitnews Test Environment
+-----
+94.232.116.142
+xennanews.com
+200 Usenet.nl S.r.l.
+-----
+94.232.116.174
+*.hitnews.com
+200 Welcome to Hitnews
+-----
+94.232.116.162
+i-telligent.net
+200 Welcome to I-Telligent
+-----
+94.232.116.183
+news.usenet2go.com
+200 Welcome to Usenet2Go
+-----
+94.232.116.144
+usenet.nl
+200 Usenet.nl S.r.l.
+-----
+94.232.116.130
+xsnews.nl
+200 Welcome to XS News B.V.
+-----
+94.232.116.164
+xsnews.nl
+200 Welcome to PLINQ
+-----
+94.232.116.132
+i-telligent.com
+200 Welcome to I-Telligent
+-----
+94.232.116.139
+power.freediscussions.com
+200 FreeDiscussions S.r.l
+-----
+94.232.116.154
+news.bulknews.eu
+200 Welcome to Bulknews
+-----
+94.232.116.121
+reader2.newsxs.nl
+200 Welcome to NewsXS dev
+-----
+94.232.116.184
+xsnews.nl
+200 Welcome to Usenet
+-----
+94.232.116.133
+xennanews.com
+200 Welcome to Aviteo Ltd DE
+-----
+94.232.116.143
+usenet.nl
+200 Usenet.nl S.r.l.
+-----
+94.232.116.146
+xsnews.nl
+200 Welcome to Express Network Group LLC
+-----
+94.232.116.129
+reader.newsxl.eu
+200 Welcome to NewsXL
+-----
+94.232.116.131
+reader.xsnews.nl
+200 Welcome to XS News
+-----
+94.232.116.149
+news.usenext.com
+200 Welcome to Aviteo Ltd DE
+-----
+94.232.116.160
+news.latinusenet.com
+200 Welcome to latinusenet
+-----
+94.232.116.181
+reader.turbousenet.com
+200 Welcome to TurboUsenet
+-----
+94.232.116.173
+news.tecbit.eu
+200 Welcome to TecBIT
+-----
+94.232.116.175
+bonus.usenetprime.com
+200 Welcome to Usenetprime
+-----
+94.232.116.123
+news.aeton.nl
+200 Welcome to Aeton
+-----
+94.232.116.169
+news.usenet.org
+200 Welcome to the world of Usenet.org
+-----
+94.232.116.168
+news.stingyusenet.com
+200 Welcome to Stingy Usenet
+-----
+94.232.116.147
+xsnews.nl
+200 Welcome to giganews
+-----
+94.232.116.128
+reader.easyusenet.com
+200 Welcome to Easyusenet
+-----
+94.232.116.182
+news.newsgrabber.nl
+200 Welcome to Newsgrabber
+-----
+94.232.116.150
+usenext.de
+200 Welcome to Aviteo Ltd DE
+-----
+94.232.116.151
+usenext.de
+200 Welcome to Aviteo Ltd DE
+-----
+94.232.116.157
+news.usenetdiscount.com
+200 Welcome to UsenetDiscount
+-----
+94.232.116.177
+news.usenetdeal.com
+200 Welcome to usenetdeal
+-----
+94.232.116.171
+news.kpn.nl
+-----
+94.232.116.159
+xsnews.nl
+200 Welcome to UsenetBlox.com
+-----
+94.232.116.126
+news.gebruikhet.net
+200 Welcome to Bullcat
+-----
+94.232.116.140
+xennanews.com
+200 Usenet.nl S.r.l.
+-----
+94.232.116.122
+reader2.newsxs.nl
+200 Welcome to Newsxs
+-----
+94.232.116.141
+power.freediscussions.com
+200 FreeDiscussions S.r.l
+-----
+94.232.116.167
+reader.usenet.agency
+200 Welcome to Usenet Agency
+-----
+94.232.116.124
+news.elfhosted.com
+200 Welcome to elfhosted
+-----
+94.232.116.170
+reader.usenight.com
+200 Welcome to Usenight
+-----
+95.168.168.43
+*.5eurousenet.com
+200 Welcome to the reader
+-----
+95.168.168.42
+*.5eurousenet.com
+200 Welcome to the reader
+-----
